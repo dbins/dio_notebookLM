@@ -1,0 +1,44 @@
+Slide 1: O Foguete Saturn V: Uma Visão Geral
+• Definição: O Saturn V é um veículo de lançamento superpesado descartável, desenvolvido pela NASA para o Programa Apollo e a estação espacial Skylab.
+• Importância Histórica: Até hoje, continua sendo o único foguete a transportar seres humanos além da órbita terrestre baixa.
+• Capacidade: Mantém o recorde de maior capacidade de carga para a órbita terrestre baixa (LEO), com 140.000 kg.
+Slide 2: Desenvolvimento e Fabricação
+• Liderança: Projetado sob a direção de Wernher von Braun no Marshall Space Flight Center.
+• Principais Empreiteiras:
+    ◦ Boeing (Primeiro estágio S-IC).
+    ◦ North American Aviation (Segundo estágio S-II).
+    ◦ Douglas Aircraft Company (Terceiro estágio S-IVB).
+    ◦ IBM (Unidade de Instrumentos).
+• Unidades: Foram construídos 15 veículos com capacidade de voo, além de três para testes em solo.
+Slide 3: Estrutura e Dimensões
+• Altura: Aproximadamente 111 metros (363 pés) com a espaçonave Apollo no topo.
+• Diâmetro: 10 metros (33 pés) na base.
+• Massa Total: Totalmente abastecido, pesava entre 2,8 e 2,9 milhões de kg.
+• Empuxo: Gerava quase 9 milhões de libras de empuxo total em seus três estágios.
+Slide 4: Primeiro Estágio (S-IC)
+• Motores: Equipado com cinco motores Rocketdyne F-1 dispostos em quincôncio.
+• Combustível: Utilizava RP-1 (querosene refinado) e oxigênio líquido (LOX) como oxidante.
+• Desempenho: Queimava por cerca de 150 segundos, levando o foguete a uma altitude de 42 milhas a uma velocidade de 6.000 mph.
+Slide 5: Segundo Estágio (S-II)
+• Motores: Alimentado por cinco motores J-2.
+• Combustível: Utilizava hidrogênio líquido (LH2) e oxigênio líquido (LOX).
+• Função: Acelerava o Saturn V através da alta atmosfera com 1.000.000 lbf de empuxo no vácuo por aproximadamente 395 segundos.
+Slide 6: Terceiro Estágio (S-IVB) e Unidade de Instrumentos
+• S-IVB: Possuía um único motor J-2.
+• Versatilidade: Ao contrário dos estágios anteriores, seu motor era reiniciável, permitindo a Injeção Trans-Lunar (TLI) para enviar a nave rumo à Lua.
+• Unidade de Instrumentos (IU): Localizada acima do S-IVB, continha os sistemas de orientação, navegação e controle de todo o veículo.
+Slide 7: Perfil de Lançamento e Missão
+• Sequência de Ignição: O motor central ligava primeiro, seguido pelos pares externos em intervalos de 300 milissegundos para reduzir a carga estrutural.
+• Órbita de Estacionamento: O terceiro estágio disparava brevemente para colocar a Apollo em uma órbita a cerca de 103 milhas acima da Terra.
+• Viagem Lunar: Após verificações, o S-IVB disparava novamente para a TLI, com o trabalho do Saturn V sendo concluído uma vez que a nave estivesse a caminho da Lua.
+Slide 8: Histórico de Lançamentos
+• Total de Missões: 13 lançamentos realizados a partir do Kennedy Space Center entre 1967 e 1973.
+• Taxa de Sucesso: 12 lançamentos bem-sucedidos e uma falha parcial (Apollo 6).
+• Marcos Principais:
+    ◦ Apollo 8: Primeiro voo tripulado para a Lua (órbita).
+    ◦ Apollo 11: Primeiro pouso lunar tripulado.
+    ◦ Skylab: Lançamento da primeira estação espacial americana.
+Slide 9: Custos e Legado
+• Investimento: O custo total do projeto foi de aproximadamente US6,4bilhões (valor histórico),o que equivale a cerca de US 34,5 bilhões em dólares de 2024.
+• Custo por Voo: Estima-se em US 185 milhões por missão Apollo(aproximadamente US 995 milhões hoje).
+• Exposição Atual: Existem Saturn V completos ou estágios em exibição no Johnson Space Center, Kennedy Space Center e no U.S. Space & Rocket Center.
